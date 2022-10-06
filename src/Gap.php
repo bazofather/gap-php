@@ -24,7 +24,7 @@ class Gap
      *
      * @var string
      */
-    private $token;
+    private $token = "899b1b11455bcfb6ee8953905e467d8c2fa25c499300a2d22b6384b647cb5a55";
 
     /**
      * Bale bot api url
