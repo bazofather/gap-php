@@ -31,7 +31,7 @@ class GapApi
      * @param int            $chat_id
      * @param string         $action
      *
-     * @return Array
+     * @return bool|string
      */
     public function sendAction($chat_id, $action)
     {
