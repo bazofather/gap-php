@@ -1,7 +1,7 @@
 {
     "name": "bazofather/gap-php",
     "description": "gap messenger bot sdk in php",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/bazofather/gap-php",
     "keywords": [
         "bot",
