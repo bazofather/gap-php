@@ -26,8 +26,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "bazofather/interface": "dev-master",
-        "symfony/http-client": "^6.0"
+        "bazofather/interface": "dev-master"
     },
     "autoload": {
         "psr-4": {
