@@ -1,7 +1,6 @@
 {
     "name": "bazofather/gap-php",
     "description": "gap messenger bot sdk in php",
-    "version": "0.1.1",
     "homepage": "https://github.com/bazofather/gap-php",
     "keywords": [
         "bot",
@@ -26,7 +25,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "bazofather/interface": "dev-master"
+        "bazofather/interface": "^0.1.2"
     },
     "autoload": {
         "psr-4": {
@@ -44,7 +43,6 @@
         "optimize-autoloader": true
     },
     "type": "library",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "minimum-stability": "stable",
     "license": "MIT"
 }
